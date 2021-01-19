@@ -1,6 +1,8 @@
-###### MERN APP PART A
+###### MERN APP PART B
 # Metascoop
 
+Github Link: https://github.com/SurendraSapkale/metascoop
+Netlify Link: https://metascoop.netlify.app/
 
 ### Purpose
 
